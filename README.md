@@ -1,20 +1,17 @@
-# Project(Tailwindcss)
+# 📘 Uber UI Project (Tailwindcss)
 
-멋쟁이 사자처럼 프론트엔드 부트캠프💕
-
-여러분의 팀협업을 응원합니다. 화이팅 👏‼️
-
-# 📘 Uber-Tailwind
-
-> Tailwind CSS 기반 Uber UI 반응형 디자인 구현
+> ### Tailwind CSS 기반 Uber UI 반응형 디자인 구현
 
 ---
 
 ## 👥 팀 멤버
 
-| 박지섭 | 팀장 | 앱다운로드 / 자주하는 질문 | (https://github.com/Jisub24) |
-| 장수정 | 팀원 | 로그인 폼 | (https://github.com/txwjd) |
-| 김현수 | 팀원 | 헤더 / 푸터 | (https://github.com/git-hyunsoo) |
+| 이름 | 역할 | GitHub |
+|------|------|--------|
+| 박지섭(팀장) | 앱다운로드 / 자주하는 질문 | [@Jisub24](https://github.com/Jisub24) |
+| 장수정(팀원) | 로그인 폼 | [@txwjd](https://github.com/txwjd) |
+| 김현수(팀원) | 헤더 / 푸터 | [@git-hyunsoo](https://github.com/git-hyunsoo) |  
+  
 
 ---
 
@@ -29,17 +26,19 @@
 │    ├── main.js
 ├── index.html
 └── README.md
+```
 
+---
 ## 💬 커밋 메시지 규칙
 
-**형식**: `[타입] 작업 내용`
-
-- `feat`: 새로운 기능 추가  
-- `fix`: 버그 수정  
-- `docs`: 문서 변경  
-- `style`: 스타일 수정 (세미콜론 누락, 들여쓰기 등)  
-- `refactor`: 코드 리팩토링  
-- `chore`: 기타 변경사항
+- `feat` : 새로운 기능 추가  
+- `fix` : 버그 수정  
+- `docs` : 문서 작업 (README, 회의록 등)
+- `style` : 스타일 수정 (세미콜론 누락, 들여쓰기 등)  
+- `refactor` : 코드 리팩토링  
+- `chore` : 설정, 패키지, 기타 변경사항
+- `asset` : 이미지, 폰트, 아이콘 등 정적 리소스 추가/수정
+- `test` : 테스트 코드
 
 ---
 
