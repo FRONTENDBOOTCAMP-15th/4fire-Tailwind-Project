@@ -1,6 +1,13 @@
 @import "tailwindcss";
 
-@theme{
+@theme {
   --font-sans: "Pretendard Variable", sans-serif;
+}
 
+@layer components {
+  .faq-body p,
+  .faq-body ol,
+  .faq-body li {
+    @apply m-0;
+  }
 }
